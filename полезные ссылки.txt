@@ -1,0 +1,3 @@
+Инструмент для построения диаграмм
+https://www.draw.io
+https://bpmn.studio
